@@ -1,0 +1,11 @@
+1) instalar ejs, express e socket.io
+2) criar o server.js
+3) configurar app, http e socket.io
+4) configurar pasta public
+5) app.use com render
+6) server.listen
+7) index.html com cdn socket.io e stylesheet
+8) configurar o io.on no server.js e no index.html (verificar que a todo refresh do navegador o id muda)
+9) configurar o JS no script.js
+10)configurar o socket.on no server.js e no script.js
+11) configurar o previousMessages para não apagar as mensagens no refresh
